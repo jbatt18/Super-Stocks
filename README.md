@@ -13,4 +13,4 @@ This tool is for informational and educational purposes only and does not consti
 Enjoy!
 
 ![Screenshot of Stock Profile] 
-(Is%20it%20s%20Super%20Stock.png)
+(Is%20it%20a%20Super%20Stock.png)
