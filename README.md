@@ -12,5 +12,4 @@ I've used a combination of XLOOKUP functions, IF statements, and Conditional For
 This tool is for informational and educational purposes only and does not constitute financial or investment advice. I am not a financial advisor. I own shares in some the stocks included in this project, which may influence the data presented. Use at your own risk and conduct your own research before making any invesmtent decisions.
 Enjoy!
 
-![Screenshot of Stock Profile Tool] 
-(screenshot.png)
+![Screenshot of Stock Profile Tool](screenshot.png)
