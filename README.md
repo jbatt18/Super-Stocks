@@ -1,5 +1,7 @@
-# Super-Stocks
-Stock analysis based on the Jesse Stine's book "Insider Buys: Superstock". 
+# Super-Stocks Profile Tool
+Stock analysis tool based on the Jesse Stine's book "Insider Buys: Superstock". 
+
+## Instructions
 On the first tab "LIVE Stock Data" we are using the live stock connection with Refinitiv that Excel offers. To refresh the Data go to the Data Tab and click Refresh all. You can also add a new stock ticker to the bottom of the list at anytime and it should auto populate technicals data.
 The "Imported Stock Data" tab is data imported from StockAnalysis.com to also get new fundamentals each quarter (after earnings season). Create a watchlist on StockAnalysis.com with the same stock symbols, and match up the fundamentals metrics from the Imported Stock Data sheet in the same column order, which are; (Symbol/ 200 DMA/ Float/ Shares Insiders/ Shares Institution/ Short%/ PS Ratio/ PE Ratio/ PEG Ratio/ OPerating Margin/ Profit Margin/ FCF/ Total Debt/ Debt to Equity/ Rev Growth Q/ Rev Growth YOY/ Rev Growth 3Y/ Rev Growth 5Y/ EPS/ EPS Growth/ EPS Growth 3Y/ EPS Growth 5Y/ Options/ Analyst Count/ IPO Date).
 
